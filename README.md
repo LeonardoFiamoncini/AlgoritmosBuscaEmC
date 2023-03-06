@@ -3,6 +3,6 @@ Códigos desenvolvidos na Linguagem de Programação C para a disciplina de Estr
 
 Note que, para o algoritmo de Busca Binária, devemos utilizar algum algoritmo de ordenação em conjunto. Em virtude disso, foram reaproveitados os três algoritmos de ordenação (Bubble Sort, Quick Sort e Merge Sort) desenvolvidos e disponíveis em:
 
-      <https://github.com/LeonardoFiamoncini/AlgoritmosOrdenacaoEmC>. 
+      https://github.com/LeonardoFiamoncini/AlgoritmosOrdenacaoEmC 
 
 Para verificar a demonstração dos algoritmos e verificar o tempo gasto por cada um, utilize o arquivo "main.c".
